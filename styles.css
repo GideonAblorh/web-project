@@ -1,0 +1,71 @@
+.two{
+	font-family: arial black;
+}
+
+.three{
+	font-family: arial black;
+}
+
+.down{
+	background-color: #070748;;
+	height: 100px;
+}
+
+.gh{
+	background-color: green;
+	color: white;
+}
+
+.df{
+	padding: 10px;
+	justify-content: center;
+}
+
+.kil{
+	background-color: white;
+	height: 60px;
+	width: 1150px;
+}
+
+.colryt{
+	color: white;
+}
+
+.thumbnail{
+	width: 220px;
+	height: 270px;
+	padding: 10px;
+}
+
+.new{
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+.on{
+	background-color: pink;
+	height: 60px;
+	padding-left: 10px;
+	padding: 15px;
+	align-content: center;
+}
+
+.off{
+	padding: 0px;
+	text-align: center;
+}
+
+.head{
+	color: orange;
+	font-size: 10px;
+}
+
+.middle{
+	color: green;
+	font-size: 10px;
+}
+
+.bo{
+	font-size: 10px;
+}
